@@ -1,8 +1,17 @@
-## 👋 Hi, I’m Louis
+## 👋 Hello, folks!
+My name is Louis Born and I´m studying computer science at the [Fachhochschule Aachen](https://www.fh-aachen.de/fachbereiche/elektrotechnik-und-informationstechnik). I´m from Switzerland and currently working at Bosch Access Systems GmbH.
 
-👀 I’m interested in mobile development and blockchain technology
+### Currently interested in:
+* Mobile development
+* Blockchain technology
 
-You can find me on [![Twitter][1.2]][1].
+## 📁 What I am currently working on
+[Mobile access control for students - fhaachen](https://github.com/louisborn/certificates-flutter-fhaachen) 📱
+
+<br>
+<br>
+
+You can find me on [![Twitter][1.2]][1], _LinkedIn coming soon_.
 
 ## _Happy coding!_
 
