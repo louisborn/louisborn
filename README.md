@@ -9,7 +9,6 @@ My name is Louis Born and I´m studying computer science at the [Fachhochschule 
 [Mobile access control for students - fhaachen](https://github.com/louisborn/certificates-flutter-fhaachen) 📱
 
 <br>
-<br>
 
 You can find me on [![Twitter][1.2]][1], _LinkedIn coming soon_.
 
