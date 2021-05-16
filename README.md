@@ -1,7 +1,7 @@
 ## 👋 Hello, folks!
 My name is Louis Born and I´m studying computer science at the [Fachhochschule Aachen](https://www.fh-aachen.de/fachbereiche/elektrotechnik-und-informationstechnik). I´m from Switzerland and currently working at Bosch Access Systems GmbH.
 
-### Currently interested in:
+## 💡 Currently interested in:
 * Mobile development
 * Blockchain technology
 
