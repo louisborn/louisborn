@@ -10,7 +10,7 @@ My name is Louis Born and I´m studying computer science at the [Fachhochschule 
 
 <br>
 
-You can find me on [Twitter][1], [LinkedIn][2].
+You can find me on [Twitter][1] and [LinkedIn][2].
 
 ## _Happy coding!_
 
