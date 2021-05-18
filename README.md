@@ -10,9 +10,11 @@ My name is Louis Born and I´m studying computer science at the [Fachhochschule 
 
 <br>
 
-You can find me on [![Twitter][1.2]][1], _LinkedIn coming soon_.
+You can find me on [![Twitter][1.2]][1], [![LinkedIn]][2].
 
 ## _Happy coding!_
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/louisborn_dev
+
+[2]: https://www.linkedin.com/in/louis-born-5a010816b/
