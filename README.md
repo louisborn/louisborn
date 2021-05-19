@@ -1,5 +1,5 @@
 ## 👋 Hello, folks!
-My name is Louis Born and I´m studying computer science at the [Fachhochschule Aachen](https://www.fh-aachen.de/fachbereiche/elektrotechnik-und-informationstechnik). I´m from Switzerland and currently working at Bosch Access Systems GmbH.
+My name is Louis Born and I´m studying computer science at the [Fachhochschule Aachen][3]. I´m from Switzerland and currently working at [Bosch Access Systems GmbH][4].
 
 ### Currently interested in:
 * `Mobile development`
@@ -17,3 +17,6 @@ You can find me on [Twitter][1] and [LinkedIn][2].
 [1]: https://twitter.com/louisborn_dev
 
 [2]: https://www.linkedin.com/in/louis-born-5a010816b/
+
+[3]: https://www.fh-aachen.de/fachbereiche/elektrotechnik-und-informationstechnik
+[4]: https://www.boschsecurity.com/xc/en/solutions/access-control-systems/
