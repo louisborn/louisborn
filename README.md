@@ -1,22 +1,33 @@
 ## 👋 Hello, folks!
-My name is Louis Born and I´m studying computer science at the [Fachhochschule Aachen][3]. I´m from Switzerland and currently working at [Bosch Access Systems GmbH][4].
+I´m Louis, 21 y.o. and at the [Fachhochschule Aachen][1]. I´m currently working at [Bosch Access Systems GmbH][2].
 
 ### Currently interested in:
 * `Mobile development`
 * `Blockchain technology`
+
+## ⚡Technologies & Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-yellow?style=flat-square&logo=gitlab)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-darkblue?style=flat-square&logo=dart)
+![Matlab](https://img.shields.io/badge/-Matlab-darkorange?style=flat-square&logo=mathworks)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
 
 ## 📁 What I am currently working on
 [Mobile access control for students - fhaachen](https://github.com/louisborn/certificates-flutter-fhaachen) 📱
 
 <br>
 
-You can find me on [Twitter][1] and [LinkedIn][2].
+![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&link=https://twitter.com/louisborn_dev)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)
+
 ## _Happy coding!_
 
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[1]: https://twitter.com/louisborn_dev
-
-[2]: https://www.linkedin.com/in/louis-born-5a010816b/
-
-[3]: https://www.fh-aachen.de/fachbereiche/elektrotechnik-und-informationstechnik
-[4]: https://www.boschsecurity.com/xc/en/solutions/access-control-systems/
+[1]: https://www.fh-aachen.de/
+[2]: https://www.boschsecurity.com/xc/en/solutions/access-control-systems/
