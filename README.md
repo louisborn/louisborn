@@ -1,5 +1,5 @@
 ## 👋 Hello, folks!
-I´m Louis, 21 y.o. and at the [Fachhochschule Aachen][1]. I´m currently working at [Bosch Access Systems GmbH][2].
+I´m Louis, 21 y.o. and student at the [Fachhochschule Aachen][1]. I´m currently working at [Bosch Access Systems GmbH][2].
 
 
 ![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&link=https://twitter.com/louisborn_dev)
