@@ -1,9 +1,9 @@
 ## 👋 Hello, folks!
 I´m Louis, 21 y.o. and at the [Fachhochschule Aachen][1]. I´m currently working at [Bosch Access Systems GmbH][2].
 
-### Currently interested in:
-* `Mobile development`
-* `Blockchain technology`
+
+![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&link=https://twitter.com/louisborn_dev)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)
 
 ## ⚡Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -11,6 +11,7 @@ I´m Louis, 21 y.o. and at the [Fachhochschule Aachen][1]. I´m currently workin
 ![GitLab](https://img.shields.io/badge/-GitLab-yellow?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+<br>
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-darkblue?style=flat-square&logo=dart)
 ![Matlab](https://img.shields.io/badge/-Matlab-darkorange?style=flat-square&logo=mathworks)
@@ -19,14 +20,15 @@ I´m Louis, 21 y.o. and at the [Fachhochschule Aachen][1]. I´m currently workin
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
 
-## 📁 What I am currently working on
-[Mobile access control for students - fhaachen](https://github.com/louisborn/certificates-flutter-fhaachen) 📱
-
+#### Next to learn:<br>
+![Express](https://img.shields.io/badge/-Express.js-lightgrey?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB.js-lightgrey?style=flat-square&logo=mongodb)
 <br>
-
-![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&link=https://twitter.com/louisborn_dev)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)
-
+<br>
+#### Working on:
+[Mobile access control for students - fhaachen](https://github.com/louisborn/certificates-flutter-fhaachen)
+<br>
+<br>
 ## _Happy coding!_
 
 [1]: https://www.fh-aachen.de/
