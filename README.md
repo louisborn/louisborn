@@ -22,7 +22,7 @@ I´m Louis, 21 y.o. and student at the [Fachhochschule Aachen][1]. I´m currentl
 
 #### Next to learn:<br>
 ![Express](https://img.shields.io/badge/-Express.js-lightgrey?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB.js-lightgrey?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=flat-square&logo=mongodb)
 <br>
 <br>
 #### Working on:
