@@ -20,8 +20,7 @@ I´m Louis, 21 y.o. and student at the [Fachhochschule Aachen][1]. I´m currentl
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
 
-<br>
-<br>
+
 #### Working on:
 [Mobile access control for students - fhaachen](https://github.com/louisborn/certificates-flutter-fhaachen)
 <br>
