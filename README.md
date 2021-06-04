@@ -20,9 +20,6 @@ I´m Louis, 21 y.o. and student at the [Fachhochschule Aachen][1]. I´m currentl
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
 
-#### Next to learn:<br>
-![Express](https://img.shields.io/badge/-Express.js-lightgrey?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=flat-square&logo=mongodb)
 <br>
 <br>
 #### Working on:
