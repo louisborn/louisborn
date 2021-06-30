@@ -17,6 +17,7 @@ I´m Louis, 22 y.o. and student at the [Fachhochschule Aachen][1]. I´m currentl
 ![Matlab](https://img.shields.io/badge/-Matlab-darkorange?style=flat-square&logo=mathworks)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
 
