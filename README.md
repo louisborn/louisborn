@@ -1,4 +1,4 @@
-## 👋
+#### About
 I´m Louis, 22 y.o. and student at the [Fachhochschule Aachen][1]. I´m currently working at [Bosch Access Systems GmbH][2].
 
 
