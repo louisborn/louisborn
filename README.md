@@ -5,7 +5,7 @@ I´m Louis, 22 y.o. and student at the [Fachhochschule Aachen][1]. I´m currentl
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&link=https://twitter.com/louisborn_dev)](https://twitter.com/louisborn_dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)
 
-### Language and tools:
+### Languages and tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-yellow?style=flat-square&logo=gitlab)
