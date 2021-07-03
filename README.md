@@ -23,7 +23,7 @@ I´m Louis, 22 y.o. and student at the [Fachhochschule Aachen][1]. <br>I´m curr
 
 
 #### Working on:
-[Mobile access control for students - fhaachen](https://github.com/louisborn/certificates-flutter-fhaachen)
+
 <br>
 <br>
 ## _Happy coding!_
