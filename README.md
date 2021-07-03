@@ -24,9 +24,5 @@ I´m Louis, 22 y.o. and student at the [Fachhochschule Aachen][1]. <br>I´m curr
 
 #### Working on:
 
-<br>
-<br>
-## _Happy coding!_
-
 [1]: https://www.fh-aachen.de/
 [2]: https://www.boschsecurity.com/xc/en/solutions/access-control-systems/
