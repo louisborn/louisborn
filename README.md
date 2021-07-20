@@ -21,7 +21,7 @@ I´m Louis, 22 y.o. and cs student at the [Fachhochschule Aachen][1]. I´m curre
 
 
 #### Working on:
-Mobile application for Bosch Access Systems GmbH regarding the practical project at FH Aachen University of Applied Sciences. (No public repository available).
+Mobile application for Bosch Access Systems GmbH regarding the practical project at FH Aachen University of Applied Sciences (no public repository available).
 
 [1]: https://www.fh-aachen.de/
 [2]: https://www.boschsecurity.com/xc/en/solutions/access-control-systems/
