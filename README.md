@@ -2,7 +2,7 @@
 
 #### About
 - cs student at the [Fachhochschule Aachen][1]
-- work on a scientific paper at [Bosch Access Systems GmbH][2]
+- working on a scientific paper at [Bosch Access Systems GmbH][2]
 - working as a frontend designer at [Bosch Access Systems GmbH][2]
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)
@@ -20,10 +20,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
-
-
-#### Working on:
-Mobile application for Bosch Access Systems GmbH for the practical project at FH Aachen University of Applied Sciences (no public repository available).
 
 [1]: https://www.fh-aachen.de/
 [2]: https://www.boschsecurity.com/xc/en/solutions/access-control-systems/
