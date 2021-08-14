@@ -1,11 +1,10 @@
 <h1 align=center>Louis Born</h1>
 
-
 #### About
-I´m Louis, 22 y.o. and cs student at the [Fachhochschule Aachen][1]. I´m currently working at [Bosch Access Systems GmbH][2].
+- cs student at the [Fachhochschule Aachen][1]
+- work on a scientific paper at [Bosch Access Systems GmbH][2]
+- working as a frontend designer at [Bosch Access Systems GmbH][2]
 
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=twitter&link=https://twitter.com/louisborn_dev)](https://twitter.com/louisborn_dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)
 
 #### Languages and tools:
