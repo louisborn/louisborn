@@ -2,8 +2,7 @@
 
 #### About
 - cs student at the [Fachhochschule Aachen][1]
-- working on a scientific paper at [Bosch Access Systems GmbH][2]
-- working student at [Bosch Access Systems GmbH][2]
+- Currently writing my bachelor thesis at [Bosch Access Systems GmbH][2]
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)
 
