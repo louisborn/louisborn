@@ -1,7 +1,6 @@
 <h1 align=center>Louis Born</h1>
-<div align=center>![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)</div>
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)
 
 #### About
 - cs student at the [Fachhochschule Aachen][1]
