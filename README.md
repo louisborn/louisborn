@@ -1,10 +1,10 @@
 <h1 align=center>Louis Born</h1>
+<div align=center>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)</div>
 
 #### About
 - cs student at the [Fachhochschule Aachen][1]
-- Currently writing my bachelor thesis at [Bosch Access Systems GmbH][2]
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-born-5a010816b/)](https://www.linkedin.com/in/louis-born-5a010816b/)
+
 
 #### Languages and tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
